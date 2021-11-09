@@ -49,6 +49,7 @@ CouchDB,MongoDB are popular Document-oriented database systems.
 ## Wide- Column store databases
 
 These databases stores data in the tabular format this is very similar to traditional SQL systems. The only difference between them is here we can have a dynamic column data whereas in the traditional system the rows and columns are fixed.
+
 ![Wide- Column store](https://www.researchgate.net/profile/Michael-Mior/publication/264859776/figure/fig1/AS:668915290083333@1536493241409/Data-layout-in-wide-column-stores.png)
 
 These are very helpful and effective on aggregation queries like SUM, AVG, MEAN ... etc. as the data is readily available in the columns. 
