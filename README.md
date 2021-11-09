@@ -38,7 +38,7 @@ Dynamo, Riak are some NoSQL examples of key-value store DataBases.
 
 These database store data in the form of key value pairs. Here the values are stored in the form of a Document. The document is stored either in the format of JSON or XML file.
 
-![Document-Oriented DataBase](https://www.researchgate.net/profile/Andre-Ribeiro-9/publication/288872507/figure/fig4/AS:669111159910404@1536539940239/Example-of-a-documents-oriented-database-for-the-Academic-Management-System.png)
+<img src="https://www.researchgate.net/profile/Andre-Ribeiro-9/publication/288872507/figure/fig4/AS:669111159910404@1536539940239/Example-of-a-documents-oriented-database-for-the-Academic-Management-System.png" width="300" height="200"/>
 
 These document-oriented database are mostly used in real-time analytics and e-commerce. 
 
@@ -62,7 +62,7 @@ HBase and Cassandra are widely used for column-based databases.
 
 These databases store data in the form of nodes and edges. Nodes typically store entities and edges store relations between the entities. In these databases every node and edge have a unique identifier. In relational databases tables are loosely connected whereas in Graph-based databases are multi-relational in nature.
 
-![Graph Based Database](https://dist.neo4j.com/wp-content/uploads/20180814232054/graph-technology-data-model.png)
+<img src="https://dist.neo4j.com/wp-content/uploads/20180814232054/graph-technology-data-model.png" width="200" height="200"/>
 
 Graph base database mostly used for social networks, logistics, spatial data.
 Neo4J, Infinite Graph are some popular graph-based databases.
