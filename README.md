@@ -62,7 +62,7 @@ HBase and Cassandra are widely used for column-based databases.
 
 These databases store data in the form of nodes and edges. Nodes typically store entities and edges store relations between the entities. In these databases every node and edge have a unique identifier. In relational databases tables are loosely connected whereas in Graph-based databases are multi-relational in nature.
 
-![Graph Based Database](https://dist.neo4j.com/wp-content/uploads/20180814232054/graph-technology-data-model.png)
+![Graph Based Database](https://dist.neo4j.com/wp-content/uploads/20180814232054/graph-technology-data-model.png =50*50)
 
 Graph base database mostly used for social networks, logistics, spatial data.
 Neo4J, Infinite Graph are some popular graph-based databases.
